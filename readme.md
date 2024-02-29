@@ -2,6 +2,6 @@
 
 ## Welcome Onboard
 
-this is my personal pratical example of using gitflow
+This is my personal pratical example of using gitflow
 
-this is great, let go
+This is Exicting, let go..
